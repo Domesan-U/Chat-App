@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732506397570",
+    "project_id": "mychatapp-c3bad",
+    "storage_bucket": "mychatapp-c3bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732506397570:android:8110b8f2c2a233eb758d9b",
+        "android_client_info": {
+          "package_name": "com.domesan.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732506397570-e2vvs416vvffjmkvl32vjqlo1jqsi6is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-rHDB70L3aM6HWOhTAb59imwPJi5VVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732506397570-e2vvs416vvffjmkvl32vjqlo1jqsi6is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
